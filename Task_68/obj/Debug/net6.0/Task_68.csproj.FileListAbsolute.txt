@@ -1,0 +1,15 @@
+C:\Users\Julia\Documents\Lesson9\Task_68\bin\Debug\net6.0\Task_68.exe
+C:\Users\Julia\Documents\Lesson9\Task_68\bin\Debug\net6.0\Task_68.deps.json
+C:\Users\Julia\Documents\Lesson9\Task_68\bin\Debug\net6.0\Task_68.runtimeconfig.json
+C:\Users\Julia\Documents\Lesson9\Task_68\bin\Debug\net6.0\Task_68.dll
+C:\Users\Julia\Documents\Lesson9\Task_68\bin\Debug\net6.0\Task_68.pdb
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\Task_68.csproj.AssemblyReference.cache
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\Task_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfoInputs.cache
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\Task_68.AssemblyInfo.cs
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\Task_68.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\Task_68.dll
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\refint\Task_68.dll
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\Task_68.pdb
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\Task_68.genruntimeconfig.cache
+C:\Users\Julia\Documents\Lesson9\Task_68\obj\Debug\net6.0\ref\Task_68.dll
